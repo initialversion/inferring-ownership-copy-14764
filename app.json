@@ -1,0 +1,1 @@
+{"name":"Inferring Ownership Copy","repository":"https://github.com/initialversion/inferring-ownership-copy-14764","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
